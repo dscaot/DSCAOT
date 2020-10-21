@@ -1,11 +1,5 @@
 # Developer Students Club - Academy of Technology
-
-### Site is made with ❤️ with by Gatsby & is under construction 🚀
-##### Special credits to - [DSC Chandigarh University](https://dsccu.in/) for page idea.
-
-#### Author - @[Neilblaze](https://github.com/neilblaze)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2aa72e47-232b-4e5a-a877-d0eea59c1f75/deploy-status)](https://app.netlify.com/sites/dscaot/deploys)
+Official homepage of DSC AOT made with Gatsby & :coffee:
 
 ## TODO (improvement over previous gen site) :-
 
@@ -25,6 +19,13 @@
 - [x] Add made credis (pos-fixed) [Optional]
 - [ ] Add a sweet optimized custom preloader to landing page. (optional)
 - [ ] Use Firebase hosting & deploy on custom domain (OPTIONAL)
+
+
+### Site is made with ❤️ with by Gatsby & is under construction 🚀
+##### Special credits to - [DSC Chandigarh University](https://dsccu.in/) for page idea.
+
+#### Author - @[Neilblaze](https://github.com/neilblaze)
+
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/e8411bb8d036e541b7299ea0a5c47db49e28c4b2/68747470733a2f2f7765622e617263686976652e6f72672f7765622f32303039303732383231303435362f687474703a2f2f64652e67656f6369746965732e636f6d2f68656c6c6f6d616e34362f636f6e736261722e676966" />
